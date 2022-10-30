@@ -1,0 +1,29 @@
+.users {
+	margin: 2rem auto;
+	width: 90%;
+	max-width: 40rem;
+	
+  }
+  
+  .users ul {
+	list-style: none;
+	padding: 1rem;
+	
+  }
+  
+  .users li {
+	border: 1px solid #ccc;
+	margin: 0.5rem 0;
+	padding: 0.5rem;
+  }
+  
+  .users li:hover {
+	/* TODO: This hover CSS is doing nothing, style it */
+	background-color:violet;
+	border-color:purple;
+	color:white;
+  }
+  .userIcon{
+	cursor:pointer;
+  }
+
